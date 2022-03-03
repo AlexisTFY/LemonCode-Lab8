@@ -1,0 +1,24 @@
+{
+  "name": "LemonCode-Lab8",
+  "version": "1.0.0",
+  "description": "¡Reto!: montar el entorno de desarrollo y ejecución con NodeJS, npm y Parcel para realizar la entrega utilizando los módulos de ES6 funcionando en nuestro Visual Studio Code local.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisTFY/LemonCode-Lab8.git"
+  },
+  "keywords": [],
+  "author": "Alexis Domínguez Pizarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisTFY/LemonCode-Lab8/issues"
+  },
+  "homepage": "https://github.com/AlexisTFY/LemonCode-Lab8#readme",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
